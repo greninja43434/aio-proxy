@@ -1,4 +1,4 @@
-# All-In-One Proxy Tools
+# All-In-One Proxy Tool
 ![AIO in action](https://gcdnb.pbrd.co/images/F9LKos7KvFYI.png?o=1)
 
 This script automates setting up TUIC, hysteria and other proxy-related tools in Linux.
